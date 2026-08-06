@@ -1,0 +1,19 @@
+p{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.title{
+    color: #d900ff;
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    background-color: gray;
+}
+#id{
+    color: blueviolet;
+}
+.bgc{
+ background-color: moccasin;
+}

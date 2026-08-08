@@ -1,0 +1,20 @@
+.bgc{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrX8M6NucWfhm0732j7sZR8EPBhshLqdsFx-aoJg_xQ&s") ;
+    height: 200px;
+    width: 1000px;
+    color: red;}
+   
+   
+   
+    
+
+
+.img{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7at4X1VZ3-1gsmFe6f6Dlpujrko1N5NWJSTOg-qhxA&s");
+    height: 200px;
+    width: 1000px;
+}
+.red{
+  text-align: center;
+    color: blue;
+}
